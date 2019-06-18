@@ -1,0 +1,23 @@
+{
+  "name": "xumes-blog",
+  "version": "1.0.0",
+  "description": "Meu blog usando Node.js no backend e React.js no frontend, e futuramente usando os serviços do Watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "react",
+    "react.js",
+    "watson"
+  ],
+  "author": "Thiago Ramalho de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ibm_db": "^2.5.2"
+  }
+}
